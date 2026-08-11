@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or its derived results, please cite this repository and the associated manuscript."
+title: "DT-RLR: Drift-Triggered Robust Local Reference for Open-Set Electrical Fault Diagnosis under Temporal Drift"
+type: software
+authors:
+  - family-names: "Leal"
+    given-names: "Alexandre Giacomelli"
+version: "1.0.0"
+date-released: "2026-08-11"
+license: MIT
+repository-code: "TO_BE_ADDED_AFTER_GITHUB_CREATION"
+identifiers:
+  - type: doi
+    value: "TO_BE_ADDED_AFTER_ZENODO_ARCHIVING"
+    description: "Zenodo DOI for this software and result package"
+keywords:
+  - open-set recognition
+  - fault diagnosis
+  - temporal drift
+  - adaptive calibration
+  - robust local reference
+  - concept drift
+  - electrical monitoring

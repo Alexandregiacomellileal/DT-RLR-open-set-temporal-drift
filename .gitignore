@@ -1,0 +1,13 @@
+data/*.zip
+__pycache__/
+*.pyc
+.DS_Store
+results_generated/
+
+paper2_step1_adaptive_rlr/
+paper2_step2_dual_fast/
+paper2_step3_physical_drifts/
+paper2_step4_triggered_rlr/
+paper2_step5_stress/
+paper2_step6_conformal_multi/
+paper2_major_revision/

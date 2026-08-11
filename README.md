@@ -251,4 +251,14 @@ The underlying public benchmark remains governed by the terms specified by its o
 
 ## Citation
 
-Please cite the archived Zenodo record for this repository once a DOI is assigned. A `CITATION.cff` file is included and can be updated with the Zenodo DOI after publication of the repository release.
+If you use this software, experimental protocol, or derived results, please cite the archived Zenodo release:
+
+**Leal, Alexandre Giacomelli. DT-RLR: Drift-Triggered Robust Local Reference for Open-Set Electrical Fault Diagnosis under Temporal Drift. Version 1.0.1. Zenodo, 2026.**
+
+DOI: https://doi.org/10.5281/zenodo.21893739
+
+The underlying public electrical benchmark should also be cited separately:
+
+**A Real Controlled-Fault Benchmark for Power-Anomaly Detection and Identification on IoT Edge Nodes (Three-Station 1 Hz Dataset).**
+
+DOI: https://doi.org/10.5281/zenodo.20565892

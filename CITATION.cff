@@ -5,19 +5,15 @@ type: software
 authors:
   - family-names: "Leal"
     given-names: "Alexandre Giacomelli"
-version: "1.0.1"
-date-released: "2026-08-11"
+version: "1.1.0"
+date-released: "2026-09-01"
 license: MIT
 repository-code: "https://github.com/Alexandregiacomellileal/DT-RLR-open-set-temporal-drift"
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.21893739"
-    description: "Zenodo DOI for the archived DT-RLR software and result package (v1.0.1)"
 keywords:
   - open-set recognition
   - fault diagnosis
   - temporal drift
-  - adaptive calibration
+  - adaptive reference normalization
   - robust local reference
   - concept drift
   - electrical monitoring

@@ -9,6 +9,10 @@ version: "1.1.0"
 date-released: "2026-09-01"
 license: MIT
 repository-code: "https://github.com/Alexandregiacomellileal/DT-RLR-open-set-temporal-drift"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22238277"
+    description: "Zenodo DOI for the archived DT-RLR software and result package (v1.1.0)"
 keywords:
   - open-set recognition
   - fault diagnosis
